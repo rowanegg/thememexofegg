@@ -4,9 +4,9 @@ This folder will be where you eventually move notes to be part of your own perso
 
 ## Sources 
 
-- [@dooleyIntroductionRevolutionaryCipher2018](hist1900c-starter-vault/1-inbox/2-source_notes/@dooleyIntroductionRevolutionaryCipher2018.md)
-- [@kumarClayTabletsWeb2013](hist1900c-starter-vault/1-inbox/2-source_notes/@kumarClayTabletsWeb2013.md)
-- [@lightWhenComputersWere1999](hist1900c-starter-vault/1-inbox/2-source_notes/@lightWhenComputersWere1999.md)
+- [@dooleyIntroductionRevolutionaryCipher2018sourcenote](@dooleyIntroductionRevolutionaryCipher2018sourcenote.md)
+- [@kumarClayTabletsWeb2013sourcenote](@kumarClayTabletsWeb2013sourcenote.md)
+- [@lightWhenComputersWere1999sourcenote](@lightWhenComputersWere1999sourcenote.md)
 - [@lubarNotFoldSpindle1992asourcenote](@lubarNotFoldSpindle1992asourcenote.md)
-- [@wiegandAmherstMethodOrigins 1998 - Source Note](@wiegandAmherstMethodOrigins%201998%20-%20Source%20Note.md)
+- [@wiegandAmherstMethodOrigins 1998Source Note](@wiegandAmherstMethodOrigins%201998Source%20Note.md)
 - 
