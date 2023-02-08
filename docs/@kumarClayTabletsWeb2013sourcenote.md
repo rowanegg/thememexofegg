@@ -1,7 +1,7 @@
 ---
 Title: [[kumarClayTabletsWeb2013]]
 
-date: {{Jan 26, 2023}}
+date: {Jan 26, 2023}
 type: reference
 project:
 ---
