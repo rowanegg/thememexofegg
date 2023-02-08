@@ -1,6 +1,6 @@
 ---
 Title: @lightWhenComputersWere1999Sourcenote
-date: Feb 01 2023
+date: Feb 01, 2023
 type: reference
 project:
 ---
