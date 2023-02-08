@@ -12,12 +12,6 @@ tags:: [[cipher]][[communication]][[history]][[writing]][[dooley]]
 
 Dooley, J. F. (2018). Introduction – A Revolutionary Cipher. In J. F. Dooley, _History of Cryptography and Cryptanalysis_ (pp. 1–11). Springer International Publishing. https://doi.org/10.1007/978-3-319-90443-6_1
 
-> [!info]
-> - **Cite Key:** [[1-inbox/@dooleyIntroductionRevolutionaryCipher2018]]
-> - **Link:** [Dooley - 2018 - Introduction – A Revolutionary Cipher.pdf](file://C:\Users\regsg\Zotero\storage\B5SQQ79V\Dooley%20-%202018%20-%20Introduction%20–%20A%20Revolutionary%20Cipher.pdf)
-> - **Abstract:** Cryptology is the science of secret writing. It is made up of two halves; cryptography consists of the techniques for creating systems of secret writing and cryptanalysis encompasses the techniques of breaking them. Over the past 2500 years, cryptology has developed numerous types of systems to hide messages and subsequently a rich vocabulary in which to describe them. In this chapter we introduce the reader to the vocabulary of cryptology, explain the differences between codes and ciphers and begin the discussion of how to decipher an unknown message.
-Use the zotero integration: full reference command to add the bibliographic metadata. In the metadata block above, use the cite key (start typing @ and the surname you're after to get that correct) . Change the title of the note to the cite key, including the @ sign.
-
 
 
 ---
