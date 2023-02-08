@@ -1,6 +1,6 @@
 ---
 Title: [Introduction to Revolutionary Ciphers Source Note]
-date: {{Jan 26, 2023}}
+date: {{January 26 2023}}
 type: reference
 project:
 ---
