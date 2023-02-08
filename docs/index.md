@@ -1,7 +1,7 @@
 
 # Rowan's Memex
 
-Welcome traveller! Feel free to peruse this curation of notes surrounding the history of computing, as well as how a culture can interact with technological developments. Everything can be interlinked in some way or another as we navigate the varying perspectives of time, and question who is being left out of the story. Enjoy!
+Welcome traveller! Feel free to peruse this curation of notes surrounding the history of computing, as well as how a culture can interact with technological developments. Everything can be interlinked in some way or another as we navigate the varying perspectives of time, and question who is being left out of the story. 
 
 ---
 ## Sources 
@@ -27,3 +27,7 @@ Welcome traveller! Feel free to peruse this curation of notes surrounding the hi
 - [The Need to Shift Perspectives](The%20Need%20to%20Shift%20Perspectives.md)
 - [Supply and Conflicting Demand](Supply%20and%20Conflicting%20Demand.md)
 - 
+
+
+
+![](Pasted%20image%2020230208152445.png)
