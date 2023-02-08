@@ -1,7 +1,8 @@
 ---
 Title: Accessbility in From Clay Tablets to Web: Journey of Library Catalogue
-date: {Jan 26 2023}
+date: Jan 26 2023
 type: literature
+project:
 ---
 tags::  [[internet]][[history]][[accessibility]][[communication]][[library]][[kumar]][[atomicnote]]
 
