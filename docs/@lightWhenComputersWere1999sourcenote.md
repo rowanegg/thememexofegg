@@ -1,6 +1,6 @@
 ---
 Title: @lightWhenComputersWere1999Sourcenote
-date: {{Feb 1, 2023}}
+date: {Feb 1, 2023}
 type: reference
 ---
 tags:: [[feminism]][[computers]][[internet]][[perspective]][[history]][[development]][[power]]
