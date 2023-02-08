@@ -1,11 +1,15 @@
 ---
 Title: @lightWhenComputersWere1999Sourcenote
-date: {Feb 1 2023}
+date: Feb 1 2023
 type: reference
+project:
 ---
 tags:: [[feminism]][[computers]][[internet]][[perspective]][[history]][[development]][[power]]
 
 ### Reference 
+
+Light, J. S. (1999). When Computers Were Women. _Technology and Culture_, _40_(3), 455–483.
+
 
 > [!info]
 > - **Cite Key:** [[1-inbox/@lightWhenComputersWere1999]]
