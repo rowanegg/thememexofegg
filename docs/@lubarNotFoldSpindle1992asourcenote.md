@@ -1,6 +1,6 @@
 ---
 Title: @lubarNotFoldSpindle1992a
-date: {{Feb 03, 2023}}
+date: {Feb 03, 2023}
 type: reference
 ---
 
