@@ -15,9 +15,9 @@ Throughout Light's article, she displays the constant erasure of women in the ev
 
 
 ---
-### **Related Links
+### Related Links
 
-**Chimamanda Ngozi appeals to the need for diversifying one's perspective, allowing for a more complete sense of understanding surrounding events in life.**
+Chimamanda Ngozi appeals to the need for diversifying one's perspective, allowing for a more complete sense of understanding surrounding events in life.**
 https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story?language=en
 
 
