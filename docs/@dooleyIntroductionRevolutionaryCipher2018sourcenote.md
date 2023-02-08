@@ -1,6 +1,6 @@
 ---
 Title: [@dooleyIntroductionRevolutionaryCipher2018sourcenote](@dooleyIntroductionRevolutionaryCipher2018sourcenote.md)
-date: {{date}}
+date: Jan 26 2023
 type: reference
 project:
 ---
