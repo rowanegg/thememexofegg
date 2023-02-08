@@ -1,12 +1,29 @@
-This folder will be where you eventually move notes to be part of your own personal memex. See [the course website](https://shawngraham.github.io/hist1900/3.Technical_Help/2.Set%20Up%20Your%20Online%20Memex/).  Obsidian doesn't care which folder your notes are in, as it can always find them inside the main vault. But for your memex, items you move in here you will eventually push online.
 
-> protip. You can find your note files on your machine by right-clicking a note in the left hand pane and selecting 'reveal in finder'. When we get to the point that you are putting materials online, you will need to be able to find this actual location on your machine.
+# Rowan's Memex
 
+Welcome traveller! Feel free to peruse this curation of notes surrounding the history of computing, as well as how a culture can interact with technological developments. Everything can be interlinked in some way or another as we navigate the varying perspectives of time, and question who is being left out of the story. Enjoy!
+
+---
 ## Sources 
 
 - [@dooleyIntroductionRevolutionaryCipher2018sourcenote](@dooleyIntroductionRevolutionaryCipher2018sourcenote.md)
 - [@kumarClayTabletsWeb2013sourcenote](@kumarClayTabletsWeb2013sourcenote.md)
 - [@lightWhenComputersWere1999sourcenote](@lightWhenComputersWere1999sourcenote.md)
 - [@lubarNotFoldSpindle1992asourcenote](@lubarNotFoldSpindle1992asourcenote.md)
-- [@wiegandAmherstMethodOrigins 1998Source Note](@wiegandAmherstMethodOrigins%201998Source%20Note.md)
+- [@wiegandAmherstMethodOrigins1998SourceNote](@wiegandAmherstMethodOrigins1998SourceNote.md)
+
+---
+## Atomic notes
+
+- [Accessibility in Kumar's Clay Tablets Article](Accessibility%20in%20Kumar's%20Clay%20Tablets%20Article.md)
+- [Changing the Story - Hidden Figures of Computing](Changing%20the%20Story%20-%20Hidden%20Figures%20of%20Computing.md)
+- [Duality of Tech in Lubar's Punch Card Revolution](Duality%20of%20Tech%20in%20Lubar's%20Punch%20Card%20Revolution.md)
+- [Perspective in the Dewey Decimal system](Perspective%20in%20the%20Dewey%20Decimal%20system.md)
+- [Privacy in Dooley's Introduction - Revolutionary Cipher](Privacy%20in%20Dooley's%20Introduction%20-%20Revolutionary%20Cipher.md)
+
+---
+## Ideas
+
+- [The Need to Shift Perspectives](The%20Need%20to%20Shift%20Perspectives.md)
+- [Supply and Conflicting Demand](Supply%20and%20Conflicting%20Demand.md)
 - 
