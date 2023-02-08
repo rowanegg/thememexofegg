@@ -1,6 +1,6 @@
 ---
-Title: @lubarNotFoldSpindle1992a
-date: Feb 02, 2023
+Title: lubarNotFoldSpindle1992asourcenote
+date: Feb 02 2023
 type: reference
 project:
 ---
