@@ -1,7 +1,8 @@
 ---
 Title: Perspective in the Dewey Decimal System
-date: {Jan 30 2023}
+date: Feb 01 2023
 type: literature
+project:
 ---
 tags::  [[dewey]][[atomicnote]][[library]][[perspective]][accessibility](accessibility)
 

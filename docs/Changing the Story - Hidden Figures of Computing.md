@@ -1,7 +1,8 @@
 ---
-Title: Changing the Story - Hidden Figures of computing
-date: {Feb 1st 2023}
+Title: Hidden Figures of Computing
+date: Feb 05 2023
 type: literature
+project:
 ---
 tags: [[perspective]][[history]][[feminism]][[computing]][[ENIAC]][[erasure]]
 

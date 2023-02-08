@@ -1,7 +1,8 @@
 ---
 Title: Duality of tech in Lubar's Punch Card Revolution
-date: 03 Feb 2023
+date: Feb 05 2023
 type: literature
+project:
 ---
 tags: [[development]][[revolution]][[history]][[IBM]][[computers]][perspective]
 

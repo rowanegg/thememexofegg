@@ -1,6 +1,6 @@
 ---
-Title: Accessbility in From Clay Tablets to Web: Journey of Library Catalogue
-date: Jan 26 2023
+Title: Accessbility in Kumar's Clay Tablets Article
+date: Feb 04 2023
 type: literature
 project:
 ---

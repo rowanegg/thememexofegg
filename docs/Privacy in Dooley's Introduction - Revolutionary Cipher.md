@@ -1,5 +1,5 @@
 ---
-Title: Privacy in Dooley's Introduction - Revolutionary Cipher
+Title: Privacy in Dooley's Introduction Revolutionary Cipher
 date: Jan 26 2023
 type: literature
 project:
