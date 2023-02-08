@@ -29,5 +29,4 @@ Welcome traveller! Feel free to peruse this curation of notes surrounding the hi
 - [The Need to Shift Perspectives](The%20Need%20to%20Shift%20Perspectives.md)
 
 
-
-![](Pasted%20image%2020230208152445.png)
+[OIP (15)](OIP%20(15).jpg)
