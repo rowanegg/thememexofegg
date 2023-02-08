@@ -1,6 +1,6 @@
 ---
 Title: Privacy in Dooley's Introduction - Revolutionary Cipher
-date: {{Jan 26, 2023}}
+date: {Jan 26 2023}
 type: literature
 ---
 tags:: [[cipher]][[dooley]][[communication]][[atomicnote]][[privacy]][[writing]]
