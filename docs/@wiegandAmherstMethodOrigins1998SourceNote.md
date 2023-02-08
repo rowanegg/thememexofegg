@@ -1,5 +1,5 @@
 ---
-Title: [[@wiegandAmherstMethodOrigins1998]]
+Title: wiegandAmherstMethodOrigins1998sourcenote
 date: Feb 04 2023
 type: reference
 project:
