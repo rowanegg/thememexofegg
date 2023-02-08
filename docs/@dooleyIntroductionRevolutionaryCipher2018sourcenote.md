@@ -1,7 +1,6 @@
 ---
-Title: [@dooleyIntroductionRevolutionaryCipher2018sourcenote](@dooleyIntroductionRevolutionaryCipher2018sourcenote.md)
-
-date: Jan 26, 2023
+Title: dooleyIntroductionRevolutionaryCipher2018sourcenote
+date: Jan 26 2023
 type: reference
 project:
 ---
