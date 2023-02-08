@@ -5,7 +5,7 @@ type: reference
 project:
 ---
 
-tags: [[computer]][[punchcard]][development][[protest]][[perspective]]
+tags:: [[computer]][[punchcard]][development][[protest]][[perspective]]
 
 
 ### Reference 
@@ -27,3 +27,6 @@ In the article, Lubar (1992) discusses the events of a post-IBM society, from it
 --- 
 
 ### Links
+
+[Duality of Tech in Lubar's Punch Card Revolution](Duality%20of%20Tech%20in%20Lubar's%20Punch%20Card%20Revolution.md)
+
