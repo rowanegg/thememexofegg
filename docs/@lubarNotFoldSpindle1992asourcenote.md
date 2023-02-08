@@ -5,7 +5,7 @@ type: reference
 project:
 ---
 
-tags:: [[computer]][[punchcard]][development][[protest]][[perspective]]
+tags: [[computer]][[punchcard]][development][[protest]][[perspective]]
 
 
 ### Reference 
