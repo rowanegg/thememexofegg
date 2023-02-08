@@ -1,6 +1,6 @@
 ---
 Title: [[@wiegandAmherstMethodOrigins1998]]
-date: {Jan 29, 2023}
+date: Feb 04 2023
 type: reference
 project:
 ---
