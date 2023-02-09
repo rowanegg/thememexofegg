@@ -18,4 +18,4 @@ In Wiegand's article, a theme that frequently appears throughout Dewey's journey
 ### Related Links
 
 **A single perspective can change the entire story:**
-[HiddenFigures](HiddenFigures.md)
+- [HiddenFigures](HiddenFigures.md)

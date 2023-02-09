@@ -18,4 +18,4 @@ Throughout the article, a main motif repeated emphasizes the concept of privacy.
 
 ### Related Links
 
-[23-01-2023](23-01-2023.md)
+- [23-01-2023](23-01-2023.md)
