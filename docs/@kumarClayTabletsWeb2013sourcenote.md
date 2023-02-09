@@ -1,7 +1,7 @@
 ---
 Title: kumarClayTabletsWeb2013sourcenote
 
-date: {{date}}
+date: Jan 26 2023
 type: reference
 project:
 ---
