@@ -29,7 +29,5 @@ In Introduction - A Revolutionary Cipher, Dooley discusses the basic history of 
 
 
 --- 
-
-
 ### Links
 [Privacy](Privacy.md)
