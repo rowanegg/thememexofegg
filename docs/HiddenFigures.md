@@ -10,7 +10,7 @@ Throughout Light's article, she displays the constant erasure of women in the ev
 
 ### Citational Information
 
-- [@lightWhenComputersWere1999](@lightWhenComputersWere1999.md)
+- [@lightWhenComputersWere1999sourcenote](@lightWhenComputersWere1999sourcenote.md)
 
 
 
