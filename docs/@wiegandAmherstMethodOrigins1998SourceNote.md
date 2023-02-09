@@ -14,7 +14,7 @@ Wiegand, W. A. (1998). The “Amherst Method”: The Origins of the Dewey Decima
 
 
 > [!info]
-> - **Cite Key:** @wiegandAmherstMethodOrigins1998
+> - **Cite Key:** [[@wiegandAmherstMethodOrigins1998]]
 > - **Link:** [JSTOR Full Text PDF](file://C:\Users\regsg\Zotero\storage\6KBDQYBB\Wiegand%20-%201998%20-%20The%20Amherst%20Method%20The%20Origins%20of%20the%20Dewey%20Dec.pdf)
 > - **Abstract:** Although a debate about the origins of the Dewey Decimal Classification Scheme has been going on for generations, historical consensus remains elusive. This paper contributes new information to the historiography on the origins of the scheme: (1) by grounding an account of Melvil Dewey's thinking as he was crafting the Decimal Classification on an analysis of a larger body of sources than previous classification historians have consulted; and (2) by expanding and deepening historical understanding of the contextual forces influencing his decisions on the classification structure.
 
@@ -29,4 +29,4 @@ In the article The "Amherst Method": Origins of the Dewey Decimal Classification
 --- 
 
 ### Links
-[Perspective in the Dewey Decimal system](Perspective%20in%20the%20Dewey%20Decimal%20system.md)
+[Perspective](Perspective.md)

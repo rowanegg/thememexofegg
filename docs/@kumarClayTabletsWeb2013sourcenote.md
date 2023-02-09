@@ -1,7 +1,7 @@
 ---
 Title: kumarClayTabletsWeb2013sourcenote
 
-date: Jan 26 2023
+date: {{date}}
 type: reference
 project:
 ---
@@ -32,4 +32,4 @@ In the article From Clay Tablets to Web: Journey of Library, Kumar describes the
 
 ### Links
 
-[Accessibility in Kumar's Clay Tablets Article](Accessibility%20in%20Kumar's%20Clay%20Tablets%20Article.md)
+[Accessibility](Accessibility.md)

@@ -26,4 +26,4 @@ In the article When Computers Were Women, Light discusses the role of women duri
 ---
 
 ### Links
-[[Perspective in the Dewey Decimal System]]
+[[Perspective]]
