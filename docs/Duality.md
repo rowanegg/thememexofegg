@@ -11,7 +11,6 @@ tags: [[development]][[revolution]][[history]][[IBM]][[computers]][perspective]
 ---
 ### Citational Information
 
-[[@lubarNotFoldSpindle1992a]]
 [@lubarNotFoldSpindle1992asourcenote](@lubarNotFoldSpindle1992asourcenote.md)
 
 ---

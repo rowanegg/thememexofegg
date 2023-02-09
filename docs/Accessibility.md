@@ -20,4 +20,5 @@ Access to libraries is a field that has widened over time, playing a large role 
 [HiddenFigures](HiddenFigures.md)
 
 **The Dewey Decimal system facilitated easier navigation of libraries, allowing non-academic figures the ability to access more knowledge**
-[@wiegandAmherstMethodOrigins1998](@wiegandAmherstMethodOrigins1998.md)
+[@wiegandAmherstMethodOrigins1998SourceNote](@wiegandAmherstMethodOrigins1998SourceNote.md)
+
