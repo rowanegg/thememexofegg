@@ -15,17 +15,18 @@ Welcome traveller! Feel free to peruse this curation of notes surrounding the hi
 ---
 ## Atomic notes
 
-- [Accessibility in Kumar's Clay Tablets Article](Accessibility%20in%20Kumar's%20Clay%20Tablets%20Article.md)
-- [Changing the Story - Hidden Figures of Computing](Changing%20the%20Story%20-%20Hidden%20Figures%20of%20Computing.md)
-- [Duality of Tech in Lubar's Punch Card Revolution](Duality%20of%20Tech%20in%20Lubar's%20Punch%20Card%20Revolution.md)
-- [Perspective in the Dewey Decimal system](Perspective%20in%20the%20Dewey%20Decimal%20system.md)
-- [Privacy in Dooley's Introduction - Revolutionary Cipher](Privacy%20in%20Dooley's%20Introduction%20-%20Revolutionary%20Cipher.md)
+- [Accessibility](Accessibility.md)
+- [HiddenFigures](HiddenFigures.md)
+- [Duality](Duality.md)
+- [Perspective](Perspective.md)
+- [Privacy](Privacy.md)
 
 ---
 ## Ideas
 
-- [The Need to Shift Perspectives](The%20Need%20to%20Shift%20Perspectives.md)
-- [Supply and Conflicting Demand](Supply%20and%20Conflicting%20Demand.md)
-- [The Need to Shift Perspectives](The%20Need%20to%20Shift%20Perspectives.md)
+- [ShiftPerspectives](ShiftPerspectives.md)
+- [SupplyDemand](SupplyDemand.md)
+- [ShiftPerspectives](ShiftPerspectives.md)
 
 
+[OIP (15)](OIP%20(15).jpg)
