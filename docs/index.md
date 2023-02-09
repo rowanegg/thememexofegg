@@ -28,5 +28,12 @@ Welcome traveller! Feel free to peruse this curation of notes surrounding the hi
 - [SupplyDemand](SupplyDemand.md)
 - [ShiftPerspectives](ShiftPerspectives.md)
 
+---
+
+## Notes
+- [2023-01-30](2023-01-30.md)
+- [2023-02-01](2023-02-01.md)
+- [23-01-2023](23-01-2023.md)
+
 
 [OIP (15)](OIP%20(15).jpg)
