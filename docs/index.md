@@ -26,7 +26,7 @@ Welcome traveller! Feel free to peruse this curation of notes surrounding the hi
 
 - [ShiftPerspectives](ShiftPerspectives.md)
 - [SupplyDemand](SupplyDemand.md)
-- [ShiftPerspectives](ShiftPerspectives.md)
+- [CultureTechnology](CultureTechnology.md)
 
 ---
 
