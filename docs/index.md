@@ -26,7 +26,7 @@ Welcome traveller! Feel free to peruse this curation of notes surrounding the hi
 - [@wiegandAmherstMethodOrigins1998SourceNote](@wiegandAmherstMethodOrigins1998SourceNote.md)
 
 ---
-## Ideas
+## Thoughts
 
 - [ShiftPerspectives](ShiftPerspectives.md)
 - [SupplyDemand](SupplyDemand.md)
