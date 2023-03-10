@@ -25,7 +25,7 @@ Want to see how everything connects? Check this visual:
 - [TheFeminineMachine](TheFeminineMachine.md)
 - [Immortality](Immortality.md)
 - [Environmentalism](Environmentalism.md)
-- [[Power]]
+- [Power](Power.md)
 
 ---
 
@@ -75,7 +75,7 @@ Want to see how everything connects? Check this visual:
 - [2023-03-06](2023-03-06.md)
 - [2023-03-01](2023-03-01.md)
 - [2023-03-06](2023-03-06.md)
-- [[2023-03-08]]
+- [2023-03-08](2023-03-08.md)
 
 [OIP (15)](OIP%20(15).jpg)
 
