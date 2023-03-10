@@ -4,7 +4,7 @@ date: Feb 01 2023
 type: reference
 project:
 ---
-tags:: [[feminism]][[computers]][[internet]][[perspective]][[history]][[development]][[power]]
+tags:: [[feminism]][[computers]][[internet]][[perspective]][[history]][[development]][[TheFeminineMachine]]
 
 ### Reference 
 

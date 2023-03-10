@@ -6,7 +6,7 @@ type: reference
 project:
 ---
 
-tags:: [[library]][[writing]][[communication]][[claytablet]][[Internet]][[history]][[kumar]][[power]]
+tags:: [[library]][[writing]][[communication]][[claytablet]][[Internet]][[history]][[kumar]][[TheFeminineMachine]]
 
 ---
 
