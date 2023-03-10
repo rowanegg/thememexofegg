@@ -23,5 +23,6 @@ tags: [[development]][[revolution]][[history]][[IBM]][[computers]][perspective]
 - As discussed in lecture, many major discoveries in the development of electricity came with disregard for ethics, thus forming social shortcuts
 		- [2023-02-01](2023-02-01.md)
 
-
+- **Alan Turing saved Britain during the war, however once a part of his identity was revaled, everything changed...**
+	- [SocialBlindness](SocialBlindness.md)
 

@@ -21,6 +21,9 @@ Throughout Light's article, she displays the constant erasure of women in the ev
 
 - https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story?language=en
 
+- [TheFeminineMachine](TheFeminineMachine.md)
+- [ImaginedFrustration](ImaginedFrustration.md)
+
 
 
 

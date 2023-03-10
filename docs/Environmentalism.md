@@ -21,6 +21,7 @@ In Tully's (2009) article, the unregulated harvesting of Gutta Percha in coloniz
 - [2023-02-15](2023-02-15.md)
 - [ShiftPerspectives](ShiftPerspectives.md)
 - [Colonialism](Colonialism.md)
+
 Melissa Rand has great notes on the environmental destruction caused by gutta percha harvesting:
 - [Gutta Percha - obsidian-mkdocs template (ladylovelace02.github.io)](https://ladylovelace02.github.io/Hist1900memex/Gutta-Percha/)
 

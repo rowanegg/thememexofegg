@@ -19,3 +19,6 @@ In Wiegand's article, a theme that frequently appears throughout Dewey's journey
 
 **A single perspective can change the entire story:**
 - [HiddenFigures](HiddenFigures.md)
+
+- [Power](Power.md)
+

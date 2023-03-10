@@ -22,3 +22,7 @@ Access to libraries is a field that has widened over time, playing a large role 
 **The Dewey Decimal system facilitated easier navigation of libraries, allowing non-academic figures the ability to access more knowledge**
 [@wiegandAmherstMethodOrigins1998SourceNote](@wiegandAmherstMethodOrigins1998SourceNote.md)
 
+**Even in the age of the Internet, some don't have access to infinite knowledge:**
+[@thoratColonialTopographies2019sourcenote](@thoratColonialTopographies2019sourcenote.md)
+[DigitalDivide](DigitalDivide.md)
+
