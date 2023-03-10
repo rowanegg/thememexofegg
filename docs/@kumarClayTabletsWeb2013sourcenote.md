@@ -32,5 +32,5 @@ In the article From Clay Tablets to Web: Journey of Library, Kumar describes the
 
 ### Links
 
-[Accessibility](Accessibility.md)
-[DigitalDivide](DigitalDivide.md)
+- [Accessibility](Accessibility.md)
+- [DigitalDivide](DigitalDivide.md)

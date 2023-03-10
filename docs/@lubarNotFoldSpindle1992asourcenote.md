@@ -28,7 +28,7 @@ In the article, Lubar (1992) discusses the events of a post-IBM society, from it
 
 ### Links
 
-[Duality](Duality.md)
-[Immortality](Immortality.md)
+- [Duality](Duality.md)
+- [Immortality](Immortality.md)
 
 
