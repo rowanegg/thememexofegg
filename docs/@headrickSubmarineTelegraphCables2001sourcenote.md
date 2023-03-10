@@ -26,5 +26,7 @@ Competition is a theme seen frequently in Headrick & Griset's (2001) article, as
 
 - [[CultureTechnology]]
 - [2023-02-15](2023-02-15.md)
+- [Power](Power.md)
+
 
 

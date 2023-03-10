@@ -26,4 +26,8 @@ In the article When Computers Were Women, Light discusses the role of women duri
 ---
 
 ### Links
+
+ [@carmiTamingNoisyWomen2015sourcenote](@carmiTamingNoisyWomen2015sourcenote.md)
 [HiddenFigures](HiddenFigures.md)
+[TheFeminineMachine](TheFeminineMachine.md)
+

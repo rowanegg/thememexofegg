@@ -29,4 +29,5 @@ In the article The "Amherst Method": Origins of the Dewey Decimal Classification
 --- 
 
 ### Links
-[Perspective](Perspective.md)
+- [Perspective](Perspective.md)
+- [Power](Power.md)

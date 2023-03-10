@@ -26,3 +26,6 @@ Tully (2009)  aims to raise awareness on the exploitative natures of colonizatio
 
 - [2023-02-15](2023-02-15.md)
 - [HiddenFigures](HiddenFigures.md)
+- [Environmentalism](Environmentalism.md)
+- [Colonialism](Colonialism.md)
+- [Power](Power.md)

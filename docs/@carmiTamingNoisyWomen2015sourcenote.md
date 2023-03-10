@@ -23,5 +23,9 @@ A common theme commonly noted by the author is the frequent policing of female b
 
 ### Links
 
+- [@lightWhenComputersWere1999sourcenote](@lightWhenComputersWere1999sourcenote.md)
 - [HiddenFigures](HiddenFigures.md)
 - [ShiftPerspectives](ShiftPerspectives.md)
+- [ImaginedFrustration](ImaginedFrustration.md)
+- [TheFeminineMachine](TheFeminineMachine.md)
+
