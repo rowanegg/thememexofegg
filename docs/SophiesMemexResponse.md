@@ -1,6 +1,8 @@
 ---
 Title: SophiesMemexResponse
+date: April 10, 2023
 type: permanent
+
 ---
 
 tags::  #queer #turing #perspective
