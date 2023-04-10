@@ -4,7 +4,7 @@ date: Feb 01 2023
 type: reference
 project:
 ---
-tags:: [[feminism]][[computers]][[internet]][[perspective]][[history]][[development]][[TheFeminineMachine]]
+tags:: #feminism #computers #internet #power #femininemachine #perspective
 
 ### Reference 
 
@@ -30,4 +30,7 @@ In the article When Computers Were Women, Light discusses the role of women duri
 -  [@carmiTamingNoisyWomen2015sourcenote](@carmiTamingNoisyWomen2015sourcenote.md)
 - [HiddenFigures](HiddenFigures.md)
 - [TheFeminineMachine](TheFeminineMachine.md)
+- [ImaginedFrustration](ImaginedFrustration.md)
+- [MissingMoments](MissingMoments.md)
+
 

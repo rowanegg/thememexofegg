@@ -27,4 +27,7 @@ While not an idea commonly recognized, Thorat (2019) ensures that it is clear to
 - [2023-02-13](2023-02-13.md)
 - [Duality](Duality.md)
 - [Colonialism](Colonialism.md)
+- [MelissaNoteColonialism](MelissaNoteColonialism.md)
+- [GuttaPercha](GuttaPercha.md)
+
 

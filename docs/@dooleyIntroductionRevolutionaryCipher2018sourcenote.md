@@ -5,7 +5,7 @@ type: reference
 project:
 ---
 
-tags:: [[cipher]][[communication]][[history]][[writing]][[dooley]]
+tags:: #cipher #communication #dooley #historic-developments 
 
 ---
 ### Reference 

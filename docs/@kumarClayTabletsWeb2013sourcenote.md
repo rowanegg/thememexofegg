@@ -6,7 +6,7 @@ type: reference
 project:
 ---
 
-tags:: [[library]][[writing]][[communication]][[claytablet]][[Internet]][[history]][[kumar]][[TheFeminineMachine]]
+tags:: #library #writing #power #historic-developments 
 
 ---
 
@@ -34,3 +34,5 @@ In the article From Clay Tablets to Web: Journey of Library, Kumar describes the
 
 - [Accessibility](Accessibility.md)
 - [DigitalDivide](DigitalDivide.md)
+- [Power](Power.md)
+

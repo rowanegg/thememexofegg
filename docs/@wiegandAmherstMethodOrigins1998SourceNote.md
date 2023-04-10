@@ -5,7 +5,7 @@ type: reference
 project:
 ---
 
-tags:: [[library]][[dewey]][[communication]][[history]][[dewey]][[perspective]]
+tags:: #library #dewey #communication #perspectivr #power
 projects:[[]]
 
 ### Reference 
@@ -31,3 +31,5 @@ In the article The "Amherst Method": Origins of the Dewey Decimal Classification
 ### Links
 - [Perspective](Perspective.md)
 - [Power](Power.md)
+- [ShiftPerspectives](ShiftPerspectives.md)
+

@@ -5,7 +5,7 @@ type: reference
 project:
 ---
 
-tags:: [[computer]][[punchcard]][development][[protest]][[perspective]]
+tags:: #computer #punchcard #power #IBM #perspective
 
 
 ### Reference 
@@ -30,5 +30,7 @@ In the article, Lubar (1992) discusses the events of a post-IBM society, from it
 
 - [Duality](Duality.md)
 - [Immortality](Immortality.md)
+- [Power](Power.md)
+
 
 
