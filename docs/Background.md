@@ -1,6 +1,6 @@
 ---
 Title: Background
-date: April 10, 2023
+date: April 10 2023
 type: permanent
 ---
 
