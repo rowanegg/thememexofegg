@@ -5,8 +5,8 @@ type: permanent
 project:
 ---
 
-tags::  #feminism #power #colonialism
-projects::[[]]
+tags::  #feminism #power #colonialism #culture 
+
 
 After viewing the stories of women/people of colour incolved in crucial calculations for the ENIAC and other computation, one struggles with understanding how they could possibly have handled the constant diminuation and erasure. The ENIAC Six were an extremely talented group of programmers who eventually had to train their own **male** replacements - how did they cope??? Did they continue on with their jobs elsewhere, or resign to the role placed in front of them? One can further explore this idea through the research of Grace Hopper, or "Taming Noisy Women"
 
