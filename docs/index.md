@@ -7,7 +7,7 @@ Welcome traveller! Feel free to peruse this curation of notes surrounding the hi
 
 Want to see how everything connects? Check this visual:
 
-[Screenshot 2023-03-10 125716](Screenshot%202023-03-10%20125716.png)
+[Screenshot 2023-04-10 142551](Screenshot%202023-04-10%20142551.png)
 
 ---
 
@@ -27,6 +27,18 @@ Want to see how everything connects? Check this visual:
 - [Environmentalism](Environmentalism.md)
 - [Power](Power.md)
 
+#### Part 3
+
+- [CollectiveMemory](CollectiveMemory.md)
+- [Connections](Connections.md)
+- [Youth](Youth.md)
+- [BlackHistory](BlackHistory.md)
+- [Monopoly](Monopoly.md)
+
+
+
+
+
 ---
 
 ## Sources 
@@ -45,6 +57,17 @@ Want to see how everything connects? Check this visual:
 - [@thoratColonialTopographies2019sourcenote](@thoratColonialTopographies2019sourcenote.md)
 - [@tullyVictorianEcologicalDisaster2009sourcenote](@tullyVictorianEcologicalDisaster2009sourcenote.md)
 
+##### Part 3
+
+- [@doanQueerHistoryQueer2017sourcenote](@doanQueerHistoryQueer2017sourcenote.md)
+- [@kellermanTelecommunicatedUniversitiesDiffusion1986sourcenote](@kellermanTelecommunicatedUniversitiesDiffusion1986sourcenote.md)
+- [@schulteWarGamesScenarioRegulating2008asourcenote](@schulteWarGamesScenarioRegulating2008asourcenote.md)
+- [@RusselBreakDownBlackCultureVideoGamessourcenote](@RusselBreakDownBlackCultureVideoGamessourcenote.md)
+- [@JeffBezosOwns2011sourcenote](@JeffBezosOwns2011sourcenote.md)
+
+
+
+
 
 ---
 ## Thoughts
@@ -61,6 +84,15 @@ Want to see how everything connects? Check this visual:
 - [SocialBlindness](SocialBlindness.md)
 - [InternetDecolonization](InternetDecolonization.md)
 
+#### Part 3
+
+- [MissingMoments](MissingMoments.md)
+- [SophiesMemexResponse](SophiesMemexResponse.md)
+- [MelissaNoteColonialism](MelissaNoteColonialism.md)
+- [Background](Background.md)
+- [Fear](Fear.md)
+
+
 --- 
 ## Class Notes
 
@@ -76,6 +108,13 @@ Want to see how everything connects? Check this visual:
 - [2023-03-01](2023-03-01.md)
 - [2023-03-06](2023-03-06.md)
 - [2023-03-08](2023-03-08.md)
+
+#### Part 3
+
+- [2023-03-13](2023-03-13.md)
+- [2023-03-15](2023-03-15.md)
+- [2023-03-20](2023-03-20.md)
+- [2023-03-27](2023-03-27.md)
 
 [OIP (15)](OIP%20(15).jpg)
 
