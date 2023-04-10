@@ -2,9 +2,9 @@
 Title: Duality of tech in Lubar's Punch Card Revolution
 date: Feb 05 2023
 type: literature
-project:
+
 ---
-tags: [[development]][[revolution]][[history]][[IBM]][[computers]][perspective]
+tags: #development #protest #history #IBM #power #revolution
 
  IBM punch cards were frequently used to track taxes, conduct censi, and track populations, combining bureaucracy and government when monitoring the people. While punch cards streamlined these processes, people lost their sense of humanity, becoming reduced to a series of numbers for government convenience. The punch cards quickly became a dual symbol for both capitalism and revolution, the computerized systems serving different purposes depending on perspective. Each historical event has multiple stories, and in order to properly examine its cultural effects, one must criticize the most popular perspective to uncover a diverse series of ideas. Much like the development of electrical systems in the 1800s, the introduction of the IBM incorporated social shortcuts, detrimenting culture for the sake of civic convenience.
 

@@ -1,6 +1,6 @@
 ---
 Title: Power
-date: March 4 2023
+date: March 04 2023
 type: literature
 project:
 ---
